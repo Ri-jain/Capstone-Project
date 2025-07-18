@@ -10,6 +10,11 @@ Skandia Elevevators
 🧠 Focus: Churn Modeling · RFM Segmentation · Retention Analytics · Revenue Risk
 
 ---
+## 🧠 Project Overview
+
+This project applies behavioral segmentation and predictive modeling to Skandia Elevator’s customer order data. The goal is to identify which accounts are most valuable, which are at risk of churn, and how Skandia can proactively retain customers without relying on marketing attribution. Using transaction records from 2013–2025, the analysis produces a data-driven prioritization framework to guide retention strategy.
+
+----
 
 ## ✅ Key Highlights
 
