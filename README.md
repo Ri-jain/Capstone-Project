@@ -4,7 +4,7 @@ Skandia Elevevators
 
 #  Skandia Elevator – Customer Segmentation and Churn Prediction
 
- Region: Europe-Sweden (B2B Manufacturing – Grain Equipment)  
+ Region: European (B2B Manufacturing – Grain Equipment)  
  Tools Used: Python (Pandas, Scikit-learn), Jupyter, Excel  
  Affiliation: Northeastern University | Spring 2025  
  Focus: Churn Modeling · RFM Segmentation · Retention Analytics · Revenue Risk
