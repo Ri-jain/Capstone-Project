@@ -18,7 +18,7 @@ This project applies behavioral segmentation and predictive modeling to Skandia 
 
 ##  Key Highlights
 
-- Analyzed 132K+ order records linked to 3,271 customer accounts  
+- Analyzed 130K+ order records linked to 3,000+ customer accounts  
 - Built RFM segmentation using Recency, Frequency, and Monetary scores  
 - Labeled churn risk based on time since last order  
 - Developed customer prioritization framework combining revenue and churn  
@@ -46,13 +46,13 @@ This project applies behavioral segmentation and predictive modeling to Skandia 
 ### Customer Prioritization  
 - Top 10% revenue = High Value  
 - Segment Counts:
-  - High Value – Retained: 121  
-  - High Value – At Risk: 68  
-  - Regular: 210  
-  - Low Value – Churned: 1,491
+  - High Value – Retained: 100+ 
+  - High Value – At Risk: 70+ 
+  - Regular: 200+
+  - Low Value – Churned: 1,500+
 
 ### Revenue by Churn Category  
-- Churned: $9.02B  
+- Churned: $9.02B
 - Active: $1.98B  
 - Dormant: $348M  
 
